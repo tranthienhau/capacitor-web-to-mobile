@@ -1,0 +1,17 @@
+node_modules/
+dist/
+*.log
+.DS_Store
+.idea/
+
+# Capacitor regenerates these from cap sync
+ios/
+android/
+
+# Secrets
+.env
+*.env
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
